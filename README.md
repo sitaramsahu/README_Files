@@ -54,7 +54,7 @@ I am a passionate Software developer with a keen interest in web development, op
 - **Databases**: MySQL, SQL Server.
 - **Tools**: Git, VS Code, Microsoft Visual Studio.
 
-<!-- ---
+  ***
 
 ### 🛠️ Technologies & Tools
 
@@ -91,14 +91,14 @@ I am a passionate Software developer with a keen interest in web development, op
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sitaramsahu&layout=compact&theme=radical)
 
---- -->
+---
 
 <!-- ## Connect with Me -->
 <p align="center">
 <a href="https://www.linkedin.com/in/sita-ram-sahu-bca/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sitaramsahu" height="30" width="40" /></a>
 <a href="https://instagram.com/sitaramsahurajnagar/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sitaramsahurajnagar" height="30" width="40" /></a>
 <a href="https://x.com/sitaramsahu_cpp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sitaramsahu" height="30" width="40" /></a>
-<a href="mailto:sitaramsahurajnagar@example.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="sitaramsahurajnagar@gmail.com" height="30" width="40" /></a>
+<a href="mailto:sitaramsahurajnagar@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="sitaramsahurajnagar@gmail.com" height="30" width="40" /></a>
 </p>
 
 ---
@@ -107,16 +107,16 @@ Thank you for visiting my profile! Feel free to reach out if you want to connect
 
 <h1 align="center">Sita Ram Sahu! [1] </h1>
 
-GitHub P1
+GitHub Profile 1
 
 # 💫 About Me:
 
-I’m Alaukik Mishra, a Fullstack Developer with expertise in MongoDB, Express, Node.js, PostgreSQL, SQL, React, Tailwind CSS, and GSAP. I specialize in building user-friendly, animated web applications and full-stack solutions. Currently, I'm working on "CricArena," a cricket tournament platform, and have previously contributed to projects like "MaxPaid." My focus is on combining creativity with functionality to deliver impactful solutions.<br><br>
+I’m <b>Sita Ram Sahu </b>, a Fullstack Developer with expertise in MongoDB, Express, Node.js, PostgreSQL, SQL, React, Tailwind CSS, and GSAP. I specialize in building user-friendly, animated web applications and full-stack solutions. Currently, I'm working on "CricArena," a cricket tournament platform, and have previously contributed to projects like "MaxPaid." My focus is on combining creativity with functionality to deliver impactful solutions.<br><br>
 
 ## 🌐 Socials:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alaukik__k)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alaukik-mishra-189278290)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sitaramsahurajnagar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sita-ram-sahu-bca/)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Alaukik_k)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=black)](https://leetcode.com/u/Alaukikmishra/)
 
@@ -155,7 +155,7 @@ Trying to figure things out.
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaydeep-mukherjee/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/jayx_deep)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sita-ram-sahu-bca/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/jayx_deep)
 
 # 📊 GitHub Stats:
 
@@ -256,12 +256,12 @@ Connect with me on LinkedIn to learn more about my professional background and s
 
 hub
 
-<h1 align="center">👋 Hey there, I'm <a href="https://www.linkedin.com/in/rajeev-sharma-b0b10324b/">Rajeev Sharma</a></h1>
+<h1 align="center">👋 Hey there, I'm <a href="https://www.linkedin.com/in/sita-ram-sahu-bca/">Sita Ram Sahu</a></h1>
 
 <p align="center">
-  <a href="mailto:rajeevsharmamachphy@gmail.com">📧 Contact Me</a> • 
-  <a href="https://www.linkedin.com/in/rajeev-sharma">🔗 LinkedIn</a> • 
-  <a href="https://github.com/machphy">🐙 GitHub</a>
+  <a href="mailto:sitaramsahurajnagar@gmail.com">📧 Contact Me</a> • 
+  <a href="https://www.linkedin.com/in/sita-ram-sahu-bca/">🔗 LinkedIn</a> • 
+  <a href="https://github.com/sitaramsahu">🐙 GitHub</a>
 </p>
 
 ---
@@ -306,7 +306,7 @@ Data Analysis:
 I'm always excited to collaborate on interesting projects. If you're working on something exciting or have any questions, feel free to drop me a message!
 
 <p align="center">
-  <a href="mailto:rajeevsharmamachphy@gmail.com"><img src="https://img.shields.io/badge/Email-rajeevsharmamachphy%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/rajeev-sharma"><img src="https://img.shields.io/badge/LinkedIn-Rajeev%20Sharma-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/machphy"><img src="https://img.shields.io/badge/GitHub-machphy-lightgrey?style=for-the-badge&logo=github&logoColor=black" alt="GitHub"></a>
+  <a href="mailto:sitaramsahurajnagar@gmail.com"><img src="https://img.shields.io/badge/Email-rajeevsharmamachphy%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/sita-ram-sahu-bca/"><img src="https://img.shields.io/badge/LinkedIn-Rajeev%20Sharma-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/sitaramsahu"><img src="https://img.shields.io/badge/GitHub-machphy-lightgrey?style=for-the-badge&logo=github&logoColor=black" alt="GitHub"></a>
 </p>
