@@ -148,6 +148,18 @@ I’m <b>Sita Ram Sahu </b>, a Fullstack Developer with expertise in MongoDB, Ex
 [![](https://visitcount.itsvg.in/api?id=sitaramsahu&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- ## Connect with Me -->
+<p align="center">
+<a href="https://www.linkedin.com/in/sita-ram-sahu-bca/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sitaramsahu" height="30" width="40" /></a>
+<a href="https://instagram.com/sitaramsahurajnagar/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sitaramsahurajnagar" height="30" width="40" /></a>
+<a href="https://x.com/sitaramsahu_cpp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sitaramsahu" height="30" width="40" /></a>
+<a href="mailto:sitaramsahurajnagar@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="sitaramsahurajnagar@gmail.com" height="30" width="40" /></a>
+</p>
+
+<h1></h1>
+
+Thank you for visiting my profile! Feel free to reach out if you want to connect or collaborate on any projects.
+<img width="100%" height="3px" src="https://www.animatedimages.org/data/media/562/animated-line-image-0387.gif">
 
 <h1 align="center">Sita Ram Sahu! [2] </h1>
 
