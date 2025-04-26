@@ -165,8 +165,10 @@ Trying to figure things out.
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=sitaramsahu&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sitaramsahu&theme=dark&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=sitaramsahu&theme=dark&hide_border=false)
+<br/>
+![](https://github-readme-stats.vercel.app/api?username=sitaramsahu&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sitaramsahu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
@@ -209,27 +211,31 @@ GitHub p3
 GitHub p4
 
 <h1 align="center">Hi 👋, I'm Sita Ram Sahu</h1>
+
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=D26151&background=FFF1EF00&random=false&width=435&lines=Hello+Floks...;I+am+a+Full+Stack+Devloper" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=D26151&background=FFF1EF00&random=false&width=435&lines=Hello+Floks...;I+am+a+Full+Stack+Devloper" alt="Typing SVG" />
+</a>
 
 Hello stranger! I am a self-motivated, hard-working, and ambitious Full Stack Web Developer with 1,200 hours of coding practice. Proficient in MERN Stack, adept at solving 500+ DSA problems. Experienced in both solo and collaborative project development. Possesses strong problem-solving abilities and a passion for continuous learning.
 Looking forward to working as a developer and competent employee in an exciting tech company.
 
 Connect with me on LinkedIn to learn more about my professional background and skills. Thanks for visiting!
 
-<picture> <img margin-left=500px src="https://raw.githubusercontent.com/priyan1995/priyan1995/master/readme-image.gif" width = 900px></picture>
-
+<picture>
+ <img margin-left=500px src="https://raw.githubusercontent.com/priyan1995/priyan1995/master/readme-image.gif" width = 900px>
+ </picture>
  </div>
 
  <img width="100%" height="3px" src="https://www.animatedimages.org/data/media/562/animated-line-image-0387.gif">
   
  <img align="right" width="380px" src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/8.Cool-Animation/Keep_Coding.gif" width = 320px>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhay2010-2010&label=Profile%20views&color=0e75b6&style=flat" alt="abhay2010-2010" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sitaramsahu&label=Profile%20views&color=0e75b6&style=flat" alt="sitaramsahu" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on repository [Ticket-Management](https://github.com/abhay2010-2010/Ticket-management)
+- 🔭 I’m currently working on repository [Ticket-Management](https://github.com/sitaramsahu/Ticket-management)
 
 - 🔭 I’m recently completed [EventMeastro](https://event-maestro-jfkz.vercel.app/)
 
@@ -239,7 +245,7 @@ Connect with me on LinkedIn to learn more about my professional background and s
 
 - 👯 I’m looking to collaborate on **LinkedIn & GitHub**
 
-- 👨‍💻 All of my projects are available at [https://abhay2010-2010.github.io/](https://abhay2010-2010.github.io/)
+- 👨‍💻 All of my projects are available at [https://sitaramsahu.github.io/](https://sitaramsahu.github.io/)
 
 - 💬 Ask me about **DSA, JavaScript, MySql, GitHub**
 
@@ -320,3 +326,5 @@ I'm always excited to collaborate on interesting projects. If you're working on 
   <a href="https://www.linkedin.com/in/sita-ram-sahu-bca/"><img src="https://img.shields.io/badge/LinkedIn-Rajeev%20Sharma-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/sitaramsahu"><img src="https://img.shields.io/badge/GitHub-machphy-lightgrey?style=for-the-badge&logo=github&logoColor=black" alt="GitHub"></a>
 </p>
+<img width="100%" src="https://www.animatedimages.org/data/media/562/animated-line-image-0124.gif">
+<img width="100%" height="3px" src="https://www.animatedimages.org/data/media/562/animated-line-image-0387.gif">
