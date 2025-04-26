@@ -268,7 +268,7 @@ Connect with me on LinkedIn to learn more about my professional background and s
 </p>
 
 <p>
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sitaramsahu&show_icons=true&locale=en" alt="Sita Ram Sahu" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=sitaramsahu&show_icons=true&locale=en" alt="Sita Ram Sahu" />
 </p>
 
 <p>
