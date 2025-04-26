@@ -117,8 +117,8 @@ I’m <b>Sita Ram Sahu </b>, a Fullstack Developer with expertise in MongoDB, Ex
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sitaramsahurajnagar)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sita-ram-sahu-bca/)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Alaukik_k)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=black)](https://leetcode.com/u/Alaukikmishra/)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sitaramsahu_cpp)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=black)](https://leetcode.com/u/sitaramsahu/)
 
 # 💻 Tech Stack:
 
@@ -126,21 +126,23 @@ I’m <b>Sita Ram Sahu </b>, a Fullstack Developer with expertise in MongoDB, Ex
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=alaukik1210&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=alaukik1210&theme=rose_pine&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alaukik1210&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=sitaramsahu&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false)
+
+<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sitaramsahu&theme=rose_pine&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sitaramsahu&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=alaukik1210&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=sitaramsahu&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=alaukik1210&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=sitaramsahu&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=alaukik1210&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=sitaramsahu&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
