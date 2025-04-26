@@ -1,12 +1,13 @@
 # README_Files
 
+<!--
 <img width="100%" height="3px" src="https://www.animatedimages.org/data/media/562/animated-line-image-0387.gif">
 
 <h2 align="center">Hi there, I'm Sita Ram Sahu 👋 </h2>
 
 <p align="center">
   🌟 Aspiring Full Stack Developer | 💻 React (JavaScript Framework) | 🚀 Entrepreneur
-  
+
 </p>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=D26151&background=FFF1EF00&random=false&width=435&lines=Hello+Floks...;I+am+a+Full+Stack+Devloper" alt="Typing SVG" /></a>
 
@@ -20,8 +21,7 @@
 - ⚡ Fun fact: ...
 
 <img width="100%" height="3px" src="https://www.animatedimages.org/data/media/562/animated-line-image-0387.gif">
-
-<h1 align="center">Sita Ram Sahu! </h1>
+-->
 
 <h2 align="center">Hi, I'm </h2>
 <h1 align="center">Sita Ram Sahu! </h1>
@@ -83,12 +83,15 @@ I am a passionate Software developer with a keen interest in web development, op
 
 ---
 
-### 🏆 GitHub Trophies
+<!--
+ ### 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=rajguptaH&theme=discord&no-frame=true&no-bg=false&margin-w=3)
+-->
 
 ---
 
+<!--
 ## GitHub Stats
 
 ![Sitaram's GitHub stats](https://github-readme-stats.vercel.app/api?username=sitaramsahu&show_icons=true&theme=radical)
@@ -96,6 +99,7 @@ I am a passionate Software developer with a keen interest in web development, op
 ## Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sitaramsahu&layout=compact&theme=radical)
+-->
 
 ---
 
