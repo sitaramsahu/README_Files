@@ -266,11 +266,11 @@ Connect with me on LinkedIn to learn more about my professional background and s
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sitaramsahu&show_icons=true&locale=en&layout=compact" alt="Sita Ram Sahu" />
 </p>
-
+<br/>
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sitaramsahu&show_icons=true&locale=en" alt="Sita Ram Sahu" />
 </p>
-
+<br/>
 <p>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sitaramsahu&" alt="Sita Ram Sahu" />
 </p>
