@@ -1,8 +1,14 @@
 # README_Files
 
-redme.md file for you
+<img width="100%" height="3px" src="https://www.animatedimages.org/data/media/562/animated-line-image-0387.gif">
+  
+ <img align="right" width="380px" src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/8.Cool-Animation/Keep_Coding.gif" width = 320px>
 
-# Hi there, I'm Sitaram Sahu 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhay2010-2010&label=Profile%20views&color=0e75b6&style=flat" alt="abhay2010-2010" /> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+<h2 align="center">Hi there, I'm Sita Ram Sahu 👋 </h2>
 
 <p align="center">
   🌟 Aspiring Full Stack Developer | 💻 React (JavaScript Framework) | 🚀 Entrepreneur
@@ -20,12 +26,7 @@ redme.md file for you
 - ⚡ Fun fact: ...
 
 <img width="100%" height="3px" src="https://www.animatedimages.org/data/media/562/animated-line-image-0387.gif">
-  
- <img align="right" width="380px" src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/8.Cool-Animation/Keep_Coding.gif" width = 320px>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhay2010-2010&label=Profile%20views&color=0e75b6&style=flat" alt="abhay2010-2010" /> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <h1 align="center">Sita Ram Sahu! </h1>
 
@@ -35,8 +36,8 @@ redme.md file for you
 <p align="center">
   🌟 Aspiring Full Stack Developer | 💻 React (JavaScript Framework) | 🚀 Entrepreneur
   
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=D26151&background=FFF1EF00&random=false&width=435&lines=Hello+Floks...;I+am+a+Full+Stack+Devloper" alt="Typing SVG" /></a>
 </p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=D26151&background=FFF1EF00&random=false&width=435&lines=Hello+Floks...;I+am+a+Full+Stack+Devloper" alt="Typing SVG" /></a>
 
 ---
 
