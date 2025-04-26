@@ -148,23 +148,12 @@ I’m <b>Sita Ram Sahu </b>, a Fullstack Developer with expertise in MongoDB, Ex
 [![](https://visitcount.itsvg.in/api?id=sitaramsahu&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!-- ## Connect with Me -->
-<p align="center">
-<a href="https://www.linkedin.com/in/sita-ram-sahu-bca/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sitaramsahu" height="30" width="40" /></a>
-<a href="https://instagram.com/sitaramsahurajnagar/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sitaramsahurajnagar" height="30" width="40" /></a>
-<a href="https://x.com/sitaramsahu_cpp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sitaramsahu" height="30" width="40" /></a>
-<a href="mailto:sitaramsahurajnagar@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="sitaramsahurajnagar@gmail.com" height="30" width="40" /></a>
-</p>
 
-<h1></h1>
-
-Thank you for visiting my profile! Feel free to reach out if you want to connect or collaborate on any projects.
 <img width="100%" height="3px" src="https://www.animatedimages.org/data/media/562/animated-line-image-0387.gif">
 
 <h1 align="center">Sita Ram Sahu! [2] </h1>
 
 GitHub p2
-<img src = "https://komarev.com/ghpvc/?username=saqib40&color=orange&style=flat-square" alt ="Profile Views">
 
 # 💫 About Me:
 
@@ -176,15 +165,17 @@ Trying to figure things out.
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=Jayxdeep&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Jayxdeep&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jayxdeep&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=sitaramsahu&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=sitaramsahu&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sitaramsahu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Jayxdeep&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=sitaramsahu&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<img width="100%" height="3px" src="https://www.animatedimages.org/data/media/562/animated-line-image-0387.gif">
 
 <h1 align="center">Sita Ram Sahu! [3] </h1>
 
@@ -193,13 +184,13 @@ GitHub p3
 
 # 💫 About Me:
 
-🔭 I’m currently working on Backend Heavy Fullstack Application <br><br>🌱 I’m currently learning -Message Queue Architecture <br><br>💬 Ask me about Node Js , React Js<br><br>📫 How to reach me atharvdalal24@gmail.com<br><br>Connect with me:
+🔭 I’m currently working on Backend Heavy Fullstack Application <br><br>🌱 I’m currently learning -Message Queue Architecture <br><br>💬 Ask me about Node Js , React Js<br><br>📫 How to reach me sitaramsahurajnagar@gmail.com<br><br>Connect with me:
 
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /></div>
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=atharvdalal&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sitaramsahu&theme=dark&hide_border=false)<br/>
 
 # 💻 Tech Stack:
 
@@ -207,9 +198,11 @@ GitHub p3
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=atharvdalal&icon=0&color=3)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=sitaramsahu&icon=0&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<img width="100%" height="3px" src="https://www.animatedimages.org/data/media/562/animated-line-image-0387.gif">
 
 <h1 align="center">Sita Ram Sahu! [4] </h1>
 
