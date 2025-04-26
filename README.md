@@ -333,9 +333,12 @@ Data Analysis:
 I'm always excited to collaborate on interesting projects. If you're working on something exciting or have any questions, feel free to drop me a message!
 
 <p align="center">
-  <a href="mailto:sitaramsahurajnagar@gmail.com"><img src="https://img.shields.io/badge/Email-sitaramsahurajnagar%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/sita-ram-sahu-bca/"><img src="https://img.shields.io/badge/sita-ram-sahu-bca-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/sitaramsahu"><img src="https://img.shields.io/badge/GitHub-sitaramsahu-lightgrey?style=for-the-badge&logo=github&logoColor=black" alt="GitHub"></a>
+  <a href="mailto:sitaramsahurajnagar@gmail.com">
+  <img src="https://img.shields.io/badge/Email-sitaramsahurajnagar%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/sita-ram-sahu-bca/">
+  <img src="https://img.shields.io/badge/LinkedIn-Sita%20Ram%20Sahu-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/sitaramsahu">
+  <img src="https://img.shields.io/badge/GitHub-sitaramsahu-lightgrey?style=for-the-badge&logo=github&logoColor=black" alt="GitHub"></a>
 </p>
 <img width="100%" src="https://www.animatedimages.org/data/media/562/animated-line-image-0124.gif">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sitaramsahu&label=Profile%20views&color=0e75b6&style=flat" alt="Sita Ram Sahu" /> </p>
