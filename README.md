@@ -128,9 +128,12 @@ I’m <b>Sita Ram Sahu </b>, a Fullstack Developer with expertise in MongoDB, Ex
 
 ![Sitaram's GitHub stats](https://github-readme-stats.vercel.app/api?username=sitaramsahu&show_icons=true&theme=radical)
 
-<br/>
+## Top Languages
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sitaramsahu&layout=compact&theme=radical)
-<br/>
+
+## Top Languages
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sitaramsahu&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
