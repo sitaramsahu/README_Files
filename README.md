@@ -32,7 +32,7 @@
 </p>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=D26151&background=FFF1EF00&random=false&width=435&lines=Hello+Floks...;I+am+a+Full+Stack+Devloper" alt="Typing SVG" /></a>
 
----
+<img width="100%" height="3px" src="https://www.animatedimages.org/data/media/562/animated-line-image-0387.gif">
 
 ## About Me
 
@@ -60,10 +60,7 @@ I am a passionate Software developer with a keen interest in web development, op
 - **Databases**: MySQL, SQL Server.
 - **Tools**: Git, VS Code, Microsoft Visual Studio.
 
-  ***
-
-  <!--
-
+<!--
 ### 🛠️ Technologies & Tools
 
 #### **Backend**
@@ -106,9 +103,10 @@ I am a passionate Software developer with a keen interest in web development, op
 <a href="mailto:sitaramsahurajnagar@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="sitaramsahurajnagar@gmail.com" height="30" width="40" /></a>
 </p>
 
----
+<h1></h1>
 
 Thank you for visiting my profile! Feel free to reach out if you want to connect or collaborate on any projects.
+<img width="100%" height="3px" src="https://www.animatedimages.org/data/media/562/animated-line-image-0387.gif">
 
 <h1 align="center">Sita Ram Sahu! [1] </h1>
 
